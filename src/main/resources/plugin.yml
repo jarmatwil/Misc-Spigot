@@ -1,0 +1,15 @@
+name: KiloMiscStuff
+version: 1.0
+author: Kilobytes
+main: Kilobytz.miscplugin.Main
+depend: [ProtocolLib]
+description: Kilobytes' misc bullshit from testing around
+commands:
+  myuuid:
+  heal:
+  mangleme:
+  healmangle:
+  manglelist:
+  fuckingouch:
+  statusgo:
+  statusstop:
